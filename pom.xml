@@ -27,4 +27,8 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+    
+    <build>
+      <finalName>ejemplo-maven</finalName>
+    </build>
 </project>
